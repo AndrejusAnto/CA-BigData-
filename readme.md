@@ -1,1 +1,1 @@
-numpy pasiskolinta iš čia https://github.com/kuleshov/cs228-material
+numpy pasiskolinta iš čia https://github.com/gertingold/euroscipy-numpy-tutorial
